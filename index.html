@@ -67,6 +67,36 @@
         }
     </style>
     <body>
-        <a class="button-64" href="itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/4pkfhtybtpt9sto/app.plist" style='font-size:x-large'>Install iOS</a>
+        <a id = 'installButton' class="button-64" href="itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/4pkfhtybtpt9sto/app.plist" style='font-size:x-large'>Install iOS</a>
+    
+        <dialog id="favDialog">
+            <form method="dialog">
+                <section>
+                <p><label>The app will begin installing in the background. Please check your home screen in a few moments.</label>
+                <menu>
+                <button type="submit">Ok</button>
+                </menu>
+            </form>
+        </dialog>
+
+        <script>
+            (() => {
+              const updateButton = document.getElementById('installButton');
+              const dialog = document.getElementById('favDialog');
+        
+              function openCheck(dialog) {
+                if (dialog.open) {
+                  console.log('Dialog open');
+                } else {
+                  console.log('Dialog closed');
+                }
+              }
+        
+              // Update button opens a modal dialog
+              updateButton.addEventListener('click', () => {
+                dialog.showModal();
+              });
+            })();
+          </script>
     </body>
 </html> 
