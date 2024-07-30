@@ -35,25 +35,5 @@
     Once the app has been built, ensure it is put into an empty folder called 'Payload', then compress the Payload folder and rename to app_<version number>.ipa
     Right click and copy the link to this file
 
-    EXAMPLE: https://srequipment-my.sharepoint.com/:u:/g/personal/jackt_srequipment_com_au/EdFNPtkyU41CgbRMq6ZuErkBNc68GjGymRIA9yhTYlY4Iw?e=z77z9a
-    YOUR LINK:
-
-    Hold the windows key, and click the link to open it.
-
-    On the page, click the button on the top left that says 'Embed'. Copy the code you see:
-    EXAMPLE: <iframe src="https://srequipment-my.sharepoint.com/personal/jackt_srequipment_com_au/_layouts/15/embed.aspx?UniqueId=d93e4dd1-5332-428d-81b4-4caba66e12b9" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="sre_1.64"></iframe>
-    YOUR LINK:
-
-
-    Grab everything inside the src="" section
-    EXAMPLE: https://srequipment-my.sharepoint.com/personal/jackt_srequipment_com_au/_layouts/15/embed.aspx?UniqueId=d93e4dd1-5332-428d-81b4-4caba66e12b9
-    YOUR LINK:
-
-
-    Replace the 'embed' with 'download'
-
-    EXAMPLE: https://srequipment-my.sharepoint.com/personal/jackt_srequipment_com_au/_layouts/15/download.aspx?UniqueId=d93e4dd1-5332-428d-81b4-4caba66e12b9
-    YOUR LINK:
-
     Now copy this link into the above section <!-- Replace this link with YOUR LINK --> and put the latest version by <!-- Put latest version number here -->
 -->
