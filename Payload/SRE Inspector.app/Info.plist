@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>23G93</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>SRE Inspector</string>
+	<key>CFBundleExecutable</key>
+	<string>SRE Inspector</string>
+	<key>CFBundleIcons</key>
+	<dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>AppIcon1024x1024</string>
+				<string>AppIcon60x60</string>
+			</array>
+			<key>CFBundleIconName</key>
+			<string>AppIcon</string>
+		</dict>
+	</dict>
+	<key>CFBundleIcons~ipad</key>
+	<dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>AppIcon1024x1024</string>
+				<string>AppIcon76x76</string>
+			</array>
+			<key>CFBundleIconName</key>
+			<string>AppIcon</string>
+		</dict>
+	</dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.srequipment.app</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>SRE Inspector</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.70</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>iPhoneOS</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>2024.10.250759</string>
+	<key>CoronaDelegates</key>
+	<array/>
+	<key>CoronaSDKBuild</key>
+	<string>3710</string>
+	<key>CoronaUseIOS6IPadPhotoPickerLandscapeOnlyWorkaround</key>
+	<true/>
+	<key>CoronaUseIOS6LandscapeOnlyWorkaround</key>
+	<true/>
+	<key>CoronaUseIOS7IPadPhotoPickerLandscapeOnlyWorkaround</key>
+	<true/>
+	<key>CoronaUseIOS7LandscapeOnlyWorkaround</key>
+	<true/>
+	<key>CoronaViewSupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+	</array>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>22A3362</string>
+	<key>DTPlatformName</key>
+	<string>iphoneos</string>
+	<key>DTPlatformVersion</key>
+	<string>18.0</string>
+	<key>DTSDKBuild</key>
+	<string>22A3362</string>
+	<key>DTSDKName</key>
+	<string>iphoneos18.0</string>
+	<key>DTXcode</key>
+	<string>1600</string>
+	<key>DTXcodeBuild</key>
+	<string>16A242d</string>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<string>NO</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>MinimumOSVersion</key>
+	<string>11.0</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Set Apple Music description in build settings</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Set Bluetooth Peripheral description in build settings</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Set Calendars Peripheral description in build settings</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Take photos to insert into the app</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Set Contacts Usage Description in build settings</string>
+	<key>NSHomeKitUsageDescription</key>
+	<string>Set Home Kit Usage Description in build settings</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Set Location Always Usage Description in build settings</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Set Location Usage Description in build settings</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Set Location When In Use Usage description in build settings</string>
+	<key>NSMainNibFile</key>
+	<string>MainWindow</string>
+	<key>NSMainNibFile~ipad</key>
+	<string>MainWindow-iPad</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Set Microphone Recognition Usage description in build settings</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Set Motion Usage description in build settings</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Set Photo Library Add Usage description in build settings</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Save photos to the gallery and insert photos from the gallery into the app</string>
+	<key>NSRemindersUsageDescription</key>
+	<string>Set Reminders Usage description in build settings</string>
+	<key>NSSiriUsageDescription</key>
+	<string>Set Siri Usage description in build settings</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Set Speech Recognition Usage description in build settings</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Open Sans Light.ttf</string>
+		<string>HelveticaNeue-Light.ttf</string>
+		<string>FontAwesome Regular.ttf</string>
+	</array>
+	<key>UIDeviceFamily</key>
+	<array>
+		<integer>1</integer>
+		<integer>2</integer>
+	</array>
+	<key>UIInterfaceOrientation</key>
+	<string>UIInterfaceOrientationPortrait</string>
+	<key>UILaunchImages</key>
+	<array>
+		<dict>
+			<key>UILaunchImageMinimumOSVersion</key>
+			<string>7.0</string>
+			<key>UILaunchImageName</key>
+			<string>Default</string>
+			<key>UILaunchImageOrientation</key>
+			<string>Portrait</string>
+			<key>UILaunchImageSize</key>
+			<string>{320, 480}</string>
+		</dict>
+		<dict>
+			<key>UILaunchImageMinimumOSVersion</key>
+			<string>7.0</string>
+			<key>UILaunchImageName</key>
+			<string>Default-568h</string>
+			<key>UILaunchImageOrientation</key>
+			<string>Portrait</string>
+			<key>UILaunchImageSize</key>
+			<string>{320, 568}</string>
+		</dict>
+		<dict>
+			<key>UILaunchImageMinimumOSVersion</key>
+			<string>8.0</string>
+			<key>UILaunchImageName</key>
+			<string>Default-667h</string>
+			<key>UILaunchImageOrientation</key>
+			<string>Portrait</string>
+			<key>UILaunchImageSize</key>
+			<string>{375, 667}</string>
+		</dict>
+		<dict>
+			<key>UILaunchImageMinimumOSVersion</key>
+			<string>8.0</string>
+			<key>UILaunchImageName</key>
+			<string>Default-736h</string>
+			<key>UILaunchImageOrientation</key>
+			<string>Portrait</string>
+			<key>UILaunchImageSize</key>
+			<string>{414, 736}</string>
+		</dict>
+		<dict>
+			<key>UILaunchImageMinimumOSVersion</key>
+			<string>7.0</string>
+			<key>UILaunchImageName</key>
+			<string>Default-Portrait</string>
+			<key>UILaunchImageOrientation</key>
+			<string>Portrait</string>
+			<key>UILaunchImageSize</key>
+			<string>{768, 1024}</string>
+		</dict>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIPrerenderedIcon</key>
+	<true/>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>arm64</string>
+	</array>
+	<key>UIRequiresFullScreen</key>
+	<true/>
+	<key>UIStatusBarHidden</key>
+	<false/>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleBlackTranslucent</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+	</array>
+</dict>
+</plist>
