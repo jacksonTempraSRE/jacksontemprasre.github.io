@@ -86,7 +86,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		v8W6ZeUl5k4rkHszDzq9okroxeM=
+		X1Bctcs9JpMbPPBzLojJQNgKtfo=
 		</data>
 		<key>Assets.xcassets/AppIcon.appiconset/Contents.json</key>
 		<data>
@@ -130,11 +130,11 @@
 		</data>
 		<key>CoronaResources.bundle/Info.plist</key>
 		<data>
-		cZNolu18seai+7UgOr6O42HizUE=
+		eUMANbBlO6Z027GR2ll7ZcukxkA=
 		</data>
 		<key>CoronaResources.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		SgE0NovPoFCp1yb/gSIyjaeeMSU=
+		ImMVh6rXDhjDxglEANJfOxEUnl0=
 		</data>
 		<key>CoronaResources.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -142,7 +142,7 @@
 		</data>
 		<key>CoronaResources.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		RDL9Jz8Bh63+ybgh+g6ECCplMKQ=
+		rplFrqJgpmOJ/secOz/kr13Yoa4=
 		</data>
 		<key>CoronaResources.bundle/_CodeSignature/CodeResources</key>
 		<data>
@@ -150,7 +150,7 @@
 		</data>
 		<key>CoronaResources.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		m+Hs7gpXGWZC3iuZp9044MGMHJc=
+		3UO83LmM8s5aXwh+o6Sd8JQhg/c=
 		</data>
 		<key>CoronaResources.bundle/widget_theme_android.png</key>
 		<data>
@@ -238,15 +238,15 @@
 		</data>
 		<key>Frameworks/MetalANGLE.framework/Info.plist</key>
 		<data>
-		UtOyDHpHRmW/TQ5wLF/LmK0lqHM=
+		uA7En5s2jvS488t3r4INmnFkTFI=
 		</data>
 		<key>Frameworks/MetalANGLE.framework/MetalANGLE</key>
 		<data>
-		HWtek9ZyBFwFevwLDnzukfR5yXg=
+		N1EAb7RHGCPGngMGSDEyXp9UtyY=
 		</data>
 		<key>Frameworks/MetalANGLE.framework/_CodeSignature/CodeResources</key>
 		<data>
-		LgscJvI6EkIqCNZ/t1+yRTkChcY=
+		viri+jaOVo6UOpxIGIHwNzPU7Ss=
 		</data>
 		<key>HelveticaNeue-Light.ttf</key>
 		<data>
@@ -398,7 +398,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		KYgoWw/5rAmm4n93SYWGzNx8zTA=
+		3NZalFsl6TC9lM6AWYv99ubrZFg=
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
@@ -606,11 +606,11 @@
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		Sy6MldvldSfLxEMrici4wxslwz8=
+		heglzgbL8JLSS+XO5HLoq9tolW8=
 		</data>
 		<key>resource.corona-archive</key>
 		<data>
-		IOYcJFqBCWN51megG/cR1wpTFrg=
+		Hb5YWO0lwqBhyPA4N0yFoOdtuSU=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -759,7 +759,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QBE13JrELdGRBNDie5Z4a5rNHirf9oVo7BW2lYu6qBE=
+			By4hl7MDqVmiNMYnU7Br+yNIMRi+oHzTGZl+QaUFNmE=
 			</data>
 		</dict>
 		<key>Assets.xcassets/AppIcon.appiconset/Contents.json</key>
@@ -836,14 +836,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OlRHpWwpg9s6n2k6Oqp/gyWkO1GT7y570IDtf9k1F8E=
+			deR0Q31Nzdc85VZazUhdBXxsutS17k1Ffnp5K8bB94I=
 			</data>
 		</dict>
 		<key>CoronaResources.bundle/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			f+1xdX/vwgUVa2pjAZOu3pG8P0e0ROQsEY8531lBd8I=
+			hyW5C/hjXqUQHggnpkueNT1N6Ap4eXz71m3Xg5a9tOw=
 			</data>
 		</dict>
 		<key>CoronaResources.bundle/_CodeSignature/CodeRequirements</key>
@@ -857,7 +857,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PAwnGdDsDh93/rvM2TT8mNTgyFVnS72F9TYH8jcQwlo=
+			+FSHBFUY0Zd6UUhQElI/GzYe0i4OaXiK8CjOLoR521g=
 			</data>
 		</dict>
 		<key>CoronaResources.bundle/_CodeSignature/CodeResources</key>
@@ -871,7 +871,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			huMm0o3DcKyE78Q8PSYhMegbhkoiC3RpYa8Ex0RHwck=
+			abFc6NuaWzTIS+/PNhM/LT+7QeoBb7PuyPDIFVjrX90=
 			</data>
 		</dict>
 		<key>CoronaResources.bundle/widget_theme_android.png</key>
@@ -1025,21 +1025,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5AWdZ7CjPcFs9wTM2UM1Iq3RiEgp5klQ5Ue3uHd6pZM=
+			LPjC6ngrRR4E1VbzbR+JmLXhb3Lg5zdaI+gE5aPQ3K8=
 			</data>
 		</dict>
 		<key>Frameworks/MetalANGLE.framework/MetalANGLE</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MBOW/jOioUeKnxEt0KsNcU/19ES5QDS9kDChDzTdN5s=
+			BpstckuIJH+yiRjQwTLXVRuGlEcmDrYpUWb7SLlG7bU=
 			</data>
 		</dict>
 		<key>Frameworks/MetalANGLE.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1bLfSQ6iKC+fBv/hLoFqd62orr24ATAgSBWd6sof1T0=
+			sxO+mxs6pDDVcRbSDu7X9oXXzy5F7vIEsD6W9EqybWY=
 			</data>
 		</dict>
 		<key>HelveticaNeue-Light.ttf</key>
@@ -1655,14 +1655,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			N0xK6KHGtbgjkWkXsKjlQmz2rqdF/Pfl298TiX4WwTY=
+			J6hRCiBoX++CpE+5CijRw9Hrm5vwdGz1QtMmtkfdPPw=
 			</data>
 		</dict>
 		<key>resource.corona-archive</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NeHZwBCsu4vNK/Gb1RsOA2uWgUh9+z4KPsMVokkN0CU=
+			56OMTDYpjRQTj97pcqXKHQ3SzK2KUow4Ai+SH88zdPM=
 			</data>
 		</dict>
 	</dict>
