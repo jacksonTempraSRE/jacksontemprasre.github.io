@@ -19,7 +19,7 @@
                 <key>bundle-identifier</key>
                 <string>com.srequipment.app</string>
                 <key>bundle-version</key>
-                <string>1.65</string> <!-- Put latest version number here -->
+                <string>1.93</string> <!-- Put latest version number here -->
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
